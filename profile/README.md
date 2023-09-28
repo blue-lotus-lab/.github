@@ -46,7 +46,7 @@ C -->|Launch| E[Release Applications ]
 #
 
 <div align="center">
-          <img src="https://github.com/blue-lotus-lab/.github/blob/main/profile/lotuschain-lab.png" alt="lotuschain-lab" />
+          <img src="https://github.com/blue-lotus-lab/.github/blob/main/profile/lotuschain-lab.png" alt="lotuschain-lab" width="400" />
 </div>
 
 #
