@@ -23,6 +23,7 @@ The [ **Smartcontract Audit** ] business is a service provider that offers a sec
 - **Linkedin**: [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp)
 - **Home**: [Lotus Chain](https://lotuschain.org)
 - **Solidity Libraries**: [Version 3](https://github.com/blue-lotus-lab/LibExtentions)
+- **Telegram News**: [LotusChain](https://t.me/lotuschain_org)
 <div align="right">
   <a href="https://www.linkedin.com/company/bluelotus-corp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
