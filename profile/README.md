@@ -1,3 +1,4 @@
+Polygon IDM Proposal [here](https://github.com/blue-lotus-lab/IDM-polygon/tree/main)
 ```
           888888b.   888                       888               888                      
           888  "88b  888                       888               888                      
@@ -32,8 +33,6 @@ The [ **Smartcontract Audit** ] business is a service provider that offers a sec
           <img alt="MIT License" style="border-width:0" src="https://github.com/blue-lotus-lab/.github/blob/main/profile/MIT.svg" width="120" height="40" />
      </a>
 </div>
-
-Polygon IDM Proposal [here](https://github.com/blue-lotus-lab/IDM-polygon/tree/main)
 
 ---
 
