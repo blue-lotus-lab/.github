@@ -1,4 +1,4 @@
-✍️ **Polygon IDM Proposal** [here](https://github.com/blue-lotus-lab/IDM-polygon/tree/main)
+<!-- ✍️ **Polygon IDM Proposal** [here](https://github.com/blue-lotus-lab/IDM-polygon/tree/main) -->
 
 #
 
