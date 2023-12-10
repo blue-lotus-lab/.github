@@ -27,7 +27,7 @@
 - **Publish**: [Applications](https://github.com/blue-lotus-lab)
 - **Linkedin**: [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp)
 - **Home**: [Lotus Chain](https://lotuschain.org)
-- **Solidity Libraries**: [Version 3](https://github.com/blue-lotus-lab/LibExtentions)
+- **Solidity Libraries**: [Version 3](https://github.com/blue-lotus-lab/LibExtentions) ✔️
 - **Telegram News**: [LotusChain](https://t.me/lotuschain_org)
 <div align="right">
   <a href="https://www.linkedin.com/company/bluelotus-corp" target="_blank">
