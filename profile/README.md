@@ -20,8 +20,8 @@
 <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" align="right"
      alt="BlueLotus" width="160" height="160">
 
-**Blue Lotus**, also known as **LotusChain**, is at the forefront of developing and integrating decentralized applications (dapps) that leverage blockchain technology to revolutionize various industries. Our dapps, including **dCDN**, **ALT**, **ALP**, **ALT-IDM**, and **ALT-Audit**, showcase our commitment to utilizing the decentralized nature of blockchain networks to provide more efficient, secure, and scalable solutions.\
-[**LotusChain Product**] - [shoot pitch](https://github.com/blue-lotus-org/lotus-products)
+**Blue Lotus**, also known as LOTUSCHAiN, is a dynamic Startup Studio at the forefront of AI-driven innovation. We've evolved from our roots in blockchain security and AI automation to become a powerhouse for developing scalable AI solutions across healthcare, security, and business automation sectors.\
+**Our Vision**, At Blue Lotus, we believe AI is a tool to enhance human capabilities, not replace them. Our focus on public sectors, healthcare, and accessibility ensures that our innovations drive real-world impact while maintaining transparency and security.
 
 - **Github**: [Repositories](https://github.com/blue-lotus-org)
 - **Publish**: [Applications](https://github.com/blue-lotus-lab)
