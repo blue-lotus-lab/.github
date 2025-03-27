@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/company/bluelotus-corp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-     <a rel="license" href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt">
-          <img alt="MIT License" style="border-width:0" src="https://github.com/blue-lotus-lab/.github/blob/main/profile/MIT.svg" width="120" height="40" />
-     </a>
 </div>
 
 ---
