@@ -1,7 +1,3 @@
-<!-- ✍️ **Polygon IDM Proposal** [here](https://github.com/blue-lotus-lab/IDM-polygon/tree/main) -->
-
-#
-
 ```
           888888b.   888                       888               888                      
           888  "88b  888                       888               888                      
@@ -12,7 +8,7 @@
           888   d88P 888 Y88b 888 Y8b.         888      Y88..88P Y88b.  Y88b 888      X88 
           8888888P"  888  "Y88888  "Y8888      88888888  "Y88P"   "Y888  "Y88888  88888P' 
 
-                  Open-source Blockchain tools presented by lotuschain.org , 2023
+                              presented by lotuschain.org , 2023
 ```
 
 # BlueLotus
